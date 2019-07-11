@@ -1,0 +1,10 @@
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\bin\Debug\C7 New Features.exe.config
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\bin\Debug\C7 New Features.exe
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\bin\Debug\C7 New Features.pdb
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\obj\Debug\C7 New Features.csprojAssemblyReference.cache
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\obj\Debug\C7 New Features.csproj.CoreCompileInputs.cache
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\obj\Debug\C7 New Features.exe
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\obj\Debug\C7 New Features.pdb
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\bin\Debug\System.ValueTuple.dll
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\bin\Debug\System.ValueTuple.xml
+C:\Users\cope\source\repos\C7 New Features\C7 New Features\obj\Debug\C7 New Features.csproj.CopyComplete
