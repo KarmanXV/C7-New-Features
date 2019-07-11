@@ -39,7 +39,7 @@ namespace C7_New_Features
                 {
                     //First number's format is wrong
                     Console.WriteLine("The typed input must be an integer...");
-                    Console.WriteLine()
+                    Console.WriteLine();
                     Console.ReadKey();
                 }
             }
