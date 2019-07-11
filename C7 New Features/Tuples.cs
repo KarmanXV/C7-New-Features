@@ -22,7 +22,7 @@ namespace C7_New_Features
         }
         private static (string name, string surname) GetNameById(int id)
         {
-            var name = ("Carlos", "Portuguez);
+            var name = ("Carlos", "Portuguez");
             return name;
         } 
         //It won't compile. A NuGet Package called System.ValueTuple is needed
